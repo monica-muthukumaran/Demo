@@ -1,7 +1,7 @@
 appId: com.example.cloudy
 publish:
   provider: github
-  token: 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
+  token: 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
   host: github.com/
   owner: monica-muthukumaran/github.com/
   repo: Demo

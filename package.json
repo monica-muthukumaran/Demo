@@ -15,10 +15,7 @@
   },
   "author": "moni",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/monica-muthukumaran/Demo/issues"
-  },
-  "homepage": "https://github.com/monica-muthukumaran/Demo#readme",
+  
   "dependencies": {
     "@electron/remote": "^2.0.5",
     "electron-reloader": "^1.2.3",
@@ -31,7 +28,7 @@
         "host": "github.com/",
         "owner": "monica-muthukumaran/github.com/",
         "repo": "Demo",
-        "token": "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"
+        "token": "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"
       }
     ]
   },
