@@ -23,6 +23,17 @@
     "electron": "^17.1.0",
     "electron-builder": "^22.14.13"
   },
+  "build":{
+    "publish":[
+      {
+        "provider" : "github",
+        "host": "github.com/",
+        "owner": "monica-muthukumaran/github.com/",
+        "repo": "Demo",
+        "token": "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"
+      }
+    ]
+  },
   "dependencies": {
     "@electron/remote": "^2.0.5",
     "electron-reloader": "^1.2.3",
