@@ -1,0 +1,4 @@
+appId: com.example.cloudy
+publish:
+  provider: github
+  token: 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

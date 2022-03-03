@@ -1,0 +1,31 @@
+{
+  "name": "cloudy",
+  "version": "1.0.0",
+  "description": "msi approach",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "build": "electron-builder build --win --publish never",
+    "deploy": "electron-builder build --win --publish always"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monica-muthukumaran/Demo.git"
+  },
+  "author": "moni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monica-muthukumaran/Demo/issues"
+  },
+  "homepage": "https://github.com/monica-muthukumaran/Demo#readme",
+  "devDependencies": {
+    "electron": "^17.1.0",
+    "electron-builder": "^22.14.13"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.0.5",
+    "electron-reloader": "^1.2.3",
+    "electron-updater": "^4.6.5"
+  }
+}
