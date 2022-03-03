@@ -19,24 +19,26 @@
     "url": "https://github.com/monica-muthukumaran/Demo/issues"
   },
   "homepage": "https://github.com/monica-muthukumaran/Demo#readme",
-  "devDependencies": {
-    "electron": "^17.1.0",
-    "electron-builder": "^22.14.13"
+  "dependencies": {
+    "@electron/remote": "^2.0.5",
+    "electron-reloader": "^1.2.3",
+    "electron-updater": "^4.6.5"
   },
   "build":{
     "publish":[
       {
         "provider" : "github",
         "host": "github.com/",
-        "owner": "monica-muthukumaran/github.com/",
+        "owner": "monica-muthukumaran/",
         "repo": "Demo",
         "token": "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"
       }
     ]
   },
-  "dependencies": {
-    "@electron/remote": "^2.0.5",
-    "electron-reloader": "^1.2.3",
-    "electron-updater": "^4.6.5"
+  "devDependencies": {
+    "electron": "^17.1.0",
+    "electron-builder": "^22.14.13"
   }
+  
+  
 }
