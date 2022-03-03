@@ -3,5 +3,5 @@ publish:
   provider: github
   token: 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
   host: github.com/
-  owner: monica-muthukumaran/
+  owner: monica-muthukumaran/github.com/
   repo: Demo

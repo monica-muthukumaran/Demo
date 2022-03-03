@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monica-muthukumaran/Demo.git"
+    "url": "https://github.com/monica-muthukumaran/Demo.git"
   },
   "author": "moni",
   "license": "MIT",
@@ -29,7 +29,7 @@
       {
         "provider" : "github",
         "host": "github.com/",
-        "owner": "monica-muthukumaran/",
+        "owner": "monica-muthukumaran/github.com/",
         "repo": "Demo",
         "token": "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"
       }
