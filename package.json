@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/monica-muthukumaran/Demo.git"
+    "url": "https://github.com/monica-muthukumaran/advanced.git"
   },
   "author": "moni",
   "license": "MIT",
@@ -27,8 +27,8 @@
         "provider" : "github",
         "host": "github.com/",
         "owner": "monica-muthukumaran/github.com/",
-        "repo": "Demo",
-        "token": "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"
+        "repo": "advanced",
+        "token": "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"
       }
     ]
   },
